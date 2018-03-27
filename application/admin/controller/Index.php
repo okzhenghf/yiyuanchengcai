@@ -8,7 +8,7 @@ class Index
 {
 	
 	public function index(){
-		echo "后台";
+		echo "后台数据";
 	}
 }
 ?>
